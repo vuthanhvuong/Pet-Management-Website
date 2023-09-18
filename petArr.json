@@ -1,0 +1,72 @@
+[
+  {
+    "id": "2",
+    "name": "Golden",
+    "age": "12",
+    "type": "Dog",
+    "weight": "6",
+    "length": "5",
+    "color": "#15e595",
+    "breed": "DOG1",
+    "vaccinated": true,
+    "dewormed": false,
+    "sterilized": true,
+    "date": "2023-08-25T13:31:54.074Z"
+  },
+  {
+    "id": "3",
+    "name": "LionKing",
+    "age": "3",
+    "type": "Dog",
+    "weight": "3",
+    "length": "3",
+    "color": "#000000",
+    "breed": "DOG2",
+    "vaccinated": false,
+    "dewormed": false,
+    "sterilized": true,
+    "date": "2023-08-25T16:06:15.929Z"
+  },
+  {
+    "id": "8",
+    "name": "Kitty",
+    "age": "8",
+    "type": "Cat",
+    "weight": "8",
+    "length": "8",
+    "color": "#000000",
+    "breed": "CAT1",
+    "vaccinated": false,
+    "dewormed": false,
+    "sterilized": true,
+    "date": "2023-08-25T16:54:57.855Z"
+  },
+  {
+    "id": "5",
+    "name": "Short",
+    "age": "5",
+    "type": "Cat",
+    "weight": "5",
+    "length": "5",
+    "color": "#f7d708",
+    "breed": "CAT3",
+    "vaccinated": true,
+    "dewormed": true,
+    "sterilized": true,
+    "date": "2023-08-25T16:55:28.638Z"
+  },
+  {
+    "id": "10",
+    "name": "Big",
+    "age": "11",
+    "type": "Cat",
+    "weight": "11",
+    "length": "11",
+    "color": "#000000",
+    "breed": "CAT1",
+    "vaccinated": true,
+    "dewormed": false,
+    "sterilized": true,
+    "date": "2023-08-26T06:21:25.201Z"
+  }
+]

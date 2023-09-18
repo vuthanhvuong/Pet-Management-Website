@@ -1,0 +1,8 @@
+[
+  { "id": "1", "breed": "CAT1", "type": "Cat" },
+  { "id": "2", "breed": "CAT3", "type": "Cat" },
+  { "id": "3", "breed": "DOG1", "type": "Dog" },
+  { "id": "4", "breed": "DOG2", "type": "Dog" },
+  { "id": "5", "breed": "DOG3", "type": "Dog" },
+  { "id": "6", "breed": "CAT3", "type": "Cat" }
+]
